@@ -1,4 +1,4 @@
-Mini Project on Food Demand Prediction using ML
+# Mini Project on Food Demand Prediction using ML
 Contributer: Ananya Srivastava
 Demand forecasting is a key component to every growing online business. Without proper demand forecasting processes in place,it can be nearly impossible to have the right amount of stock on hand at any given time. A food delivery service has to dealwith a lot of perishable raw materials which makes it all the more important for such a company to accurately forecast daily and weekly demand.
 
@@ -17,5 +17,5 @@ Food_Prediction.ipynb trains the model and saves the model.
 FoodDemand.ipynb file needs to be executed to get the result as this contains the Demand prediction code.
 
 Submitted to Digipodium 
-http://www.digipodium.com/
-http://github.com/digipodium
+1. http://www.digipodium.com/
+2. http://github.com/digipodium
